@@ -37,3 +37,21 @@
 | 
 |
 */
+
+/*
+|--------------------------------------------------------------------------
+| Assignment Operators
+|--------------------------------------------------------------------------
+|
+| The assignment operators are used to write values to variables
+| 1. Assignment (=) : Assign a value to variable
+| 2. Addition Assignment ($a += $b) : Adds the right operand to left operand 
+|                                     and saves it to left operand.
+| 3. Multiplication Assignment ($a *= $b) : Multiply right operand with left
+|                                           operand and saves in left operand.
+| 4. Division Assignment ($a /= $b) : Divides right operand with the left 
+|                                     operand and saves result in left operand.
+| 5. Modulus assignment ($a %= $b): Takes the modulus using two operands and 
+|                                   assigns the result to the left operand.
+|
+*/
